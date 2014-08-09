@@ -1,0 +1,3 @@
+[submodule "template/app_name/ng-client"]
+	path = template/app_name/ng-client
+	url = git@github.com:Troyhy/ngbp.git
